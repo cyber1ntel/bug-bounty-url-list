@@ -18,11 +18,17 @@ XSS, SQLi, SSRF, CRLF, CSV-Injection, Command Injection, Directory Traversal, LF
  * https://github.com/.../master/cheatsheets/csv-injection.md
  * https://github.com/.../Payloa.../tree/master/CSV%20Injection
 ## Command Injection
- * https://github.com/.../tree/master/Command%20Injection
-## Directory Traversal
- * https://github.com/.../tree/master/Directory%20Traversal
-## LFl
+ * https://github.com/.../tree/master/Command%20Injection[]
+ *
+## File Inclusion/Path traversal
  * https://highon.coffee/blog/lfi-cheat-sheet/
+ * https://secf00tprint.github.io/blog/payload-tester/lfirfi/en
+ * https://book.hacktricks.xyz/pentesting-web/file-inclusion[]
+ * https://gabb4r.gitbook.io/oscp-notes/web-http/lfi-and-rfi[]
+ * https://github.com/russweir/OSCP-cheatsheet/blob/master/File%20Inclusion.md
+ * https://evi1us3r.wordpress.com/lfi-cheat-sheet/
+ * https://coffeetohack.gitbook.io/coffeetohack/cheatsheet/lfirfi
+ 
 ## XXE
  * https://github.com/.../bug.../blob/master/cheatsheets/xxe.md
 ## Open-Redirect
@@ -55,6 +61,6 @@ XSS, SQLi, SSRF, CRLF, CSV-Injection, Command Injection, Directory Traversal, LF
 ## OAuth
  * https://github.com/.../PayloadsAllTheTh.../tree/master/OAuth
 ## XPATH Injection
- * https://github.com/.../Payl.../tree/master/XPATH%20Injection
+ * [https://github.com/.../Payl.../tree/master/XPATH%20Injection](https://github.com/swisskyrepo/PayloadsAllTheThings)
 ## Bypass Upload Tricky
- * https://github.com/.../tree/master/Upload%20Insecure%20Files
+ * https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files?fbclid=IwAR3QWGkHgHzulfp1U7PtPRteYZjj9hEbdrSL29FxjDZbl2fNA6C3OmjTCdY
