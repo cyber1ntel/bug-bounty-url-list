@@ -47,7 +47,7 @@ XSS, SQLi, SSRF, CRLF, CSV-Injection, Command Injection, Directory Traversal, LF
 ## GraphQL Injection
  * https://github.com/.../tree/master/GraphQL%20Injection
 ## IDOR
- * https://github.com/.../Insecure%20Direct%200bject...
+ * https://highon.coffee/blog/insecure-direct-object-reference-idor/
 ## ISCM
  * https://github.com/.../Insecure%20Source%20Code%20Management
 ## LaTex Injection
