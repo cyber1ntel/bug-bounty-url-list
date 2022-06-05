@@ -22,8 +22,7 @@ XSS, SQLi, SSRF, CRLF, CSV-Injection, Command Injection, Directory Traversal, LF
 ## Directory Traversal
  * https://github.com/.../tree/master/Directory%20Traversal
 ## LFl
- * https://github.com/.../blob/master/cheatsheets/lIfi.md
- * https://github.com/.../Paylo.../tree/master/File%20Inclusion
+ * https://highon.coffee/blog/lfi-cheat-sheet/
 ## XXE
  * https://github.com/.../bug.../blob/master/cheatsheets/xxe.md
 ## Open-Redirect
